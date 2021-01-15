@@ -1,3 +1,7 @@
-# Welcome to my blog
+# MY CODE
 
-I'm glad you are here. I plan to talk about ...
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
